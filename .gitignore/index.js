@@ -47,4 +47,4 @@ bot.on('message', message => {
     }
   })
 
-bot.login ('NzEyMzU3NjkzNzcxMjE5MDU1.XsQYzQ.h4Uy1tx3gaPLVJ_lnF-CEOCJvVM')
+bot.login ('NzEyMzU3NjkzNzcxMjE5MDU1.XsQYzQ.gtKINNK2_J-u9PrraxypUd8je0Y')
